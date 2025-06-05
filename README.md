@@ -3,7 +3,7 @@
 
 
 ##  프로젝트 개요
-기후 데이터를 활용하여 2014–2023년 배추 도매가격을 예측하는 프로젝트입니다.
+기후 데이터를 활용하여 2014–2024년 배추 도매가격을 예측하는 프로젝트입니다.
 
 - 주요 알고리즘: Ridge, Lasso, Random Forest
 - 변수 선택: VIF + Stepwise Selection
@@ -24,12 +24,10 @@ cabbage-price-prediction/
 │   ├── weight_final.csv
 │   └── ...
 │
-├── outputs/                    # 🖼️ 실행 결과 저장 (시각화, 예측 등)
-│   └── shap_summary_RF.png
 │
 ├── README.md                   # 🧾 분석 목적/방법/실행법/결과 요약
-├── requirements.txt            # 📦 실행을 위한 라이브러리 목록
-└── .gitignore                  # ❗ Git에 올리지 않을 파일 목록
+└── requirements.txt            # 📦 실행을 위한 라이브러리 목록
+
 
 
 ## 모델 성능 요약
