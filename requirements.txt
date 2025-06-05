@@ -1,0 +1,8 @@
+pandas
+numpy
+seaborn
+matplotlib
+shap
+statsmodels
+scikit-learn
+openpyxl  # Excel 파일(.xlsx) 읽기용
