@@ -8,6 +8,7 @@
 - 주요 알고리즘: Ridge, Lasso, Random Forest
 - 변수 선택: VIF + Stepwise Selection
 - 성능 검증: LOOCV, TimeSeriesSplit
+- 성능 지표: R2,MSE,MAPE등
 - 해석 기법: SHAP 분석
 
 ## 📁 폴더 구조
