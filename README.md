@@ -1,2 +1,40 @@
 # Cabbage-price-regression
-배추 가격 예측 프로젝트
+배추 가격 예측 프로젝트(2팀)
+
+
+##  프로젝트 개요
+기후 데이터를 활용하여 2014–2023년 배추 도매가격을 예측하는 프로젝트입니다.
+
+- 주요 알고리즘: Ridge, Lasso, Random Forest
+- 변수 선택: VIF + Stepwise Selection
+- 성능 검증: LOOCV, TimeSeriesSplit
+- 해석 기법: SHAP 분석
+
+## 📁 폴더 구조
+
+cabbage-price-prediction/
+├── notebooks/
+│   └── 배추가격예측.ipynb           ← 코드 + 시각화 + 분석 흐름
+│
+├── src/
+│   └── main.py              ← 파이참에서도 실행 가능한 전체 스크립트
+│
+├── data/
+│   ├── final_data2.xlsx
+│   ├── weight_final.csv
+│   └── ...                          ← 프로젝트 입력 데이터
+│
+├── README.md                        ← 분석 목적/방법/실행법/결과 요약
+├── requirements.txt                ← 실행을 위한 라이브러리 목록
+
+## 모델 성능 요약
+| 모델      | R²      | MAPE (%) |
+| -------   | ----    | -------- |
+| Ridge(CV) | 0.634   |  21.0    |
+| RF (CV) | 0.816     |  15.1    |
+| RF (TS) | 0.907     |  11.1    |
+
+🧑‍💻 팀원
+김대헌/이찬우/박지홍/정지은
+
+
