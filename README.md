@@ -1,5 +1,5 @@
 # Cabbage-price-regression
-배추 가격 예측 프로젝트(2팀)
+배추 가격 예측 프로젝트(2팀) - seoultech-DataMining
 
 
 ##  프로젝트 개요
