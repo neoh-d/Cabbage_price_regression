@@ -13,20 +13,20 @@
 ## 📁 폴더 구조
 ```
 cabbage-price-prediction/
-├── notebooks/                  # 📘 코드 + 시각화 + 분석 흐름
+├── notebooks/                  #  코드 + 시각화 + 분석 흐름
 │   └── 배추가격예측.ipynb
 │
-├── src/                        # ⚙️ 파이참에서도 실행 가능한 전체 스크립트
+├── src/                        #  파이참에서도 실행 가능한 전체 스크립트
 │   └── main.py
 │
-├── data/                       # 📂 프로젝트 입력 데이터
+├── data/                       #  프로젝트 입력 데이터
 │   ├── final_data2.xlsx
 │   ├── weight_final.csv
 │   └── ...
 │
 │
-├── README.md                   # 🧾 분석 목적/방법/실행법/결과 요약
-└── requirements.txt            # 📦 실행을 위한 라이브러리 목록
+├── README.md                   # 분석 목적/방법/실행법/결과 요약
+└── requirements.txt            # 실행을 위한 라이브러리 목록
 ```
 
 
