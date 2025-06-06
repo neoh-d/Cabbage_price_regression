@@ -3,7 +3,7 @@
 
 ##  Google Colab 실행
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/neoh-d/Cabbage_price_regression/blob/main/notebook/%EB%B0%B0%EC%B6%94%EA%B0%80%EA%B2%A9%EC%98%88%EC%B8%A1.ipynb)
-
+-> 파일 경로는 깃허브 주소와 연동했습니다
 
 ##  프로젝트 개요
 기상/기후 데이터를 활용하여 1996–2024년 배추 도매가격을 예측하는 프로젝트입니다.
